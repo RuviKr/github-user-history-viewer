@@ -1,9 +1,11 @@
 import Input from "./Input";
+import repoService from "../services/repoService";
 
 const Container = () => {
 
-    const handleSubmit = (user) => {
-        console.log(user);
+    const handleSubmit = async (user) => {
+        const reposListFromServer = await repoService(user);
+        console.log(reposListFromServer);
     };
     return (
         <div data-testid="general-repo-container">
