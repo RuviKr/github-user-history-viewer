@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-user-history-viewer/static/css/main.abd64e84.css",
+    "main.js": "/github-user-history-viewer/static/js/main.b631d829.js",
+    "index.html": "/github-user-history-viewer/index.html",
+    "main.abd64e84.css.map": "/github-user-history-viewer/static/css/main.abd64e84.css.map",
+    "main.b631d829.js.map": "/github-user-history-viewer/static/js/main.b631d829.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.b631d829.js"
+  ]
+}
